@@ -1,5 +1,7 @@
 # Yelp insights challenge
 
+[![Build Status](https://travis-ci.org/dgreenshtein/yelp-insights.svg?branch=master)](https://travis-ci.org/dgreenshtein/yelp-insights)
+
 Application finding the list of businesses reviewed by Yelp users having higher influence in Yelp social network
 
 Spark job accepting [Yelp dataset](https://www.yelp.de/dataset_challenge) in TSV format as an input
