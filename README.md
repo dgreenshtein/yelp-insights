@@ -1,6 +1,8 @@
 # Yelp insights challenge
 
 [![Build Status](https://travis-ci.org/dgreenshtein/yelp-insights.svg?branch=master)](https://travis-ci.org/dgreenshtein/yelp-insights)
+[![codecov](https://codecov.io/gh/dgreenshtein/yelp-insights/branch/master/graph/badge.svg)](https://codecov.io/gh/dgreenshtein/yelp-insights)
+
 
 Application finding the list of businesses reviewed by Yelp users having higher influence in Yelp social network
 
