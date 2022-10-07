@@ -12,7 +12,7 @@
         <maven.compiler.plugin.version>3.1</maven.compiler.plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spark.version>2.1.1</spark.version>
+        <spark.version>2.4.8</spark.version>
         <graphframes.version>0.5.0-spark2.1-s_2.11</graphframes.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <jacoco.version>0.7.8</jacoco.version>
